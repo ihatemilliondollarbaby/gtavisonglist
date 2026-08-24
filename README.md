@@ -4,6 +4,8 @@ All songs confirmed to be in GTA VI through leaks and other means (if applicable
 
 ## Radio Stations
 
+All radio stations in order of when they were first shown
+
 | Station             | Source                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 | Honey FM | plane.mp4 [CyberLeek] |
@@ -31,8 +33,8 @@ Due to copyright, I cannot directly show logos, however I have taken the artisti
 
 ## Song List
 
-All identifiable songs from all the leaks.
-There are songs that I did not add because I could not identify them.
+All identifiable songs from all the leaks in order of when they were played.
+2-3 songs are missing due to the clips being too short to identify and/or the audio quality being too low.
 
 | Song | Artist | Station | Video |
 | -------- | -------- | -------- | -------- |
