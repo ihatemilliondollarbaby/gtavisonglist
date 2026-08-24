@@ -1,5 +1,5 @@
-# gtavisonglist
-All songs confirmed to be in GTA VI through leaks and other means.
+# GTA VI Song List
+All songs confirmed to be in GTA VI through leaks and other means (if applicable)
 
 
 ## Radio Stations
@@ -59,3 +59,5 @@ There are songs that I did not add because I could not identify them.
 | La Cartera | Orquesta Harlow, Larry Harlow, Junior Gonzalez | ?| gas.mp4   |
 | Rock 'n' Roll Fantasy - 2009 Remaster | Bad Company | ?| stripclub1.mp4   |
 | Waymore's Blues | Waylon Jennings | ?| nudist_town.mp4   |
+
+Will keep this updated, feel free to add issues if there's anything I missed.
