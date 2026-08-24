@@ -27,7 +27,4 @@ All songs confirmed to be in GTA VI through leaks and other means.
 ## Logos
 Due to copyright, I cannot directly show logos, however I have taken the artistic liberty of recreating the logo myself
 
-![Dirty South Classics](https://cdn.discordapp.com/attachments/1231392687756808224/1541482829555175464/image.png?ex=6a8dc141&is=6a8c6fc1&hm=64917db6d5300749036ab73db45bfdf0edb26055c492379588e6d88740141321&)
-V-Rock
-
-<img src="/images/image.png" width="500" alt="My Discord Screenshot">
+<img src="/images/image.png" width="500">
