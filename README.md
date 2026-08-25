@@ -40,7 +40,7 @@ All identifiable songs from all the leaks in order of when they were played.
 | -------- | -------- | -------- | -------- |
 | Impact  | SG Lewis, Robyn, Channel Tres | ?  | video2.mp4   |
 | Sports car  | Tate McRae  | ?  | taser.mp4   |
-| For What It's Worth  | Steve Nicks  | V-Rock  | plane.mp4   |
+| For What It's Worth  | Stevie Nicks  | V-Rock  | plane.mp4   |
 | Rhinestone Cowboy  | Glen Campbell  | Back Country Radio  | plane.mp4   |
 | Symphony No. 5 III. Allegro Molto  | Sibelius  | Symphony FM  | plane.mp4   |
 | Overpowered  | Róisín Murphy  | Stockyard FM | plane.mp4   |
