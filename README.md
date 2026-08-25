@@ -62,4 +62,8 @@ All identifiable songs from all the leaks in order of when they were played.
 | Rock 'n' Roll Fantasy - 2009 Remaster | Bad Company | ?| stripclub1.mp4   |
 | Waymore's Blues | Waylon Jennings | ?| nudist_town.mp4   |
 
-Will keep this updated, feel free to add issues if there's anything I missed.
+Here is a playlist with all of the correct songs somebody seems to have made:
+
+https://open.spotify.com/playlist/1sRXWobe71hWF107Zzbu9Z?si=49a391fd9af84d65
+
+Will keep this repo updated, feel free to add issues if there's anything I missed.
