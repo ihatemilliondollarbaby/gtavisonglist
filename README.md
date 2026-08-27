@@ -61,6 +61,7 @@ All identifiable songs from all the leaks in order of when they were played.
 | La Cartera | Orquesta Harlow, Larry Harlow, Junior Gonzalez | ?| gas.mp4   |
 | Rock 'n' Roll Fantasy - 2009 Remaster | Bad Company | ?| stripclub1.mp4   |
 | Waymore's Blues | Waylon Jennings | ?| nudist_town.mp4   |
+| Backroads And Thunder (unsure) | Daniel Robert Ford | ? | ?.mp4 (filename lost, retro game store video)  |
 
 Here is a playlist with all of the correct songs somebody seems to have made:
 
