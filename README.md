@@ -63,10 +63,10 @@ All identifiable songs from all the leaks in order of when they were played.
 | Waymore's Blues | Waylon Jennings | ? | nudist_town.mp4   |
 | Wanderlust | The Weeknd | ? | nine1nine.mp4   |
 | HEAT | Tove Lo, SG Lewis | ? | nine1nine.mp4   |
-| Backroads And Thunder (unsure) | Daniel Robert Ford | ? | ?.mp4 (filename lost, retro game store video)  |
+| Backroads And Thunder (unsure) | Daniel Robert Ford | ? | gamestore.mp4  |
 | 25/8 | Bad Bunny | ? | rideout_customs.mp4   |
 | Searching | Change, Luther Vandross | ? | rideout_customs.mp4   |
-| Caballo Viejo | Cumbia All Stars (Roberto Torres, Charanga Vallenata) | ? | ?.mp4 (filename lost, prologue 1 video) |
+| Caballo Viejo | Cumbia All Stars (Roberto Torres, Charanga Vallenata) | ? | prologue.mp4 |
 
 Here is a playlist with all of the correct songs somebody seems to have made:
 
