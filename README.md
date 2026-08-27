@@ -58,9 +58,10 @@ All identifiable songs from all the leaks in order of when they were played.
 | Smile  | Jamiroquai  | Worldwide FM | plane2.mp4   |
 | Herz aus Glas | Marianne Rosenberg  | Kaleidoscope FM | plane2.mp4   |
 | Roller | April Wine | ?| stripclub1.mp4   |
-| La Cartera | Orquesta Harlow, Larry Harlow, Junior Gonzalez | ?| gas.mp4   |
-| Rock 'n' Roll Fantasy - 2009 Remaster | Bad Company | ?| stripclub1.mp4   |
-| Waymore's Blues | Waylon Jennings | ?| nudist_town.mp4   |
+| La Cartera | Orquesta Harlow, Larry Harlow, Junior Gonzalez | ? | gas.mp4   |
+| Rock 'n' Roll Fantasy - 2009 Remaster | Bad Company | ? | stripclub1.mp4   |
+| Waymore's Blues | Waylon Jennings | ? | nudist_town.mp4   |
+| Wanderlust | The Weeknd | ? | nine1nine.mp4   |
 | Backroads And Thunder (unsure) | Daniel Robert Ford | ? | ?.mp4 (filename lost, retro game store video)  |
 
 Here is a playlist with all of the correct songs somebody seems to have made:
