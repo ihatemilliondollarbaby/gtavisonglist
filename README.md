@@ -22,7 +22,7 @@ All radio stations in order of when they were first shown
 | World Wide FM | plane2.mp4 [CyberLeek] |
 | Kaleidoscope FM | plane2.mp4 [CyberLeek] |
 | La Ola* | plane2.mp4 [CyberLeek] |
-| The Chamber 104.8* | plane2.mp4 [CyberLeek] |
+| The Chamber 106.6* | plane2.mp4 [CyberLeek] |
 
 *full text couldn't be identified due to only the logo being visible
 
